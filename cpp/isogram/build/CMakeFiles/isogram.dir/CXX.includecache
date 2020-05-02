@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/acer/exercism/cpp/isogram/isogram.cpp
+isogram.h
+/home/acer/exercism/cpp/isogram/isogram.h
+
+/home/acer/exercism/cpp/isogram/isogram.h
+string
+-
+
